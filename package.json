@@ -1,0 +1,20 @@
+{
+  "name": "quote-s-api",
+  "version": "1.0.0",
+  "description": "This is a Api for Quotes with the author name which can be used by the user for their projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Quote-s-Api"
+  },
+  "author": "Kayarkar Pavan kalyan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
